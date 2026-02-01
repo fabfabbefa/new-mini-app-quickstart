@@ -94,7 +94,7 @@ vercel env add NEXT_PUBLIC_URL production
 3. Click the `Generate account association` button and follow the on-screen instructions for signing with your Farcaster wallet
 4. Copy the `accountAssociation` object
 
-### 2. Update Configuration
+### 2. Update Configuration 16
 
 Update your `minikit.config.ts` file to include the `accountAssociation` object:
 
