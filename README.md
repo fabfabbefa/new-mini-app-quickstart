@@ -39,7 +39,7 @@ NEXT_PUBLIC_ONCHAINKIT_API_KEY=<Replace-WITH-YOUR-CDP-API-KEY>
 NEXT_PUBLIC_URL=
 ```
 
-### 4. Run locally:
+### 4. Run locally: 7
 
 ```bash
 npm run dev
