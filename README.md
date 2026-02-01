@@ -14,15 +14,15 @@ Before getting started, make sure you have:
 * [Vercel](https://vercel.com/) account for hosting the application
 * [Coinbase Developer Platform](https://portal.cdp.coinbase.com/) Client API Key
 
-## Getting Started 3
+## Getting Started 3.1
 
-### 1. Clone this repository 4
+### 1. Clone this repository 4.1
 
 ```bash
 git clone https://github.com/base/demos.git
 ```
 
-### 2. Install dependencies: 5
+### 2. Install dependencies: 5.1
 
 ```bash
 cd demos/minikit/waitlist-mini-app-qs
