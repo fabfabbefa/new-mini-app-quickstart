@@ -87,7 +87,7 @@ vercel env add NEXT_PUBLIC_URL production
 
 ## Account Association 14
 
-### 1. Sign Your Manifest
+### 1. Sign Your Manifest 15
 
 1. Navigate to [Farcaster Manifest tool](https://farcaster.xyz/~/developers/mini-apps/manifest)
 2. Paste your domain in the form field (ex: your-vercel-project-name.vercel.app)
