@@ -119,7 +119,7 @@ vercel --prod
 
 ## Testing and Publishing 18
 
-### 1. Preview Your App
+### 1. Preview Your App 19
 
 Go to [base.dev/preview](https://base.dev/preview) to validate your app:
 
