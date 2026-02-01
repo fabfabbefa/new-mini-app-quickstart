@@ -22,7 +22,7 @@ Before getting started, make sure you have:
 git clone https://github.com/base/demos.git
 ```
 
-### 2. Install dependencies:
+### 2. Install dependencies: 5
 
 ```bash
 cd demos/minikit/waitlist-mini-app-qs
