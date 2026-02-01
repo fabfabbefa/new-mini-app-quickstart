@@ -65,7 +65,7 @@ vercel --prod
 
 You should have a URL deployed to a domain similar to: `https://your-vercel-project-name.vercel.app/`
 
-### 2. Update environment variables 12
+### 2. Mise à jour de l'enrionnement variable 12
 
 Add your production URL to your local `.env` file:
 
