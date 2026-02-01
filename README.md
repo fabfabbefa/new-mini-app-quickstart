@@ -138,7 +138,7 @@ For detailed step-by-step instructions, see the [Create a Mini App tutorial](htt
 
 ---
 
-## Disclaimer  
+## Disclaimer  22
 
 This project is a **demo application** created by the **Base / Coinbase Developer Relations team** for **educational and demonstration purposes only**.  
 
