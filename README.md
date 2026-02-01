@@ -29,7 +29,7 @@ cd demos/minikit/waitlist-mini-app-qs
 npm install
 ```
 
-### 3. Configure environment variables 6
+### 3. Configure environment variables 6.1
 
 Create a `.env.local` file and add your environment variables:
 
@@ -39,15 +39,15 @@ NEXT_PUBLIC_ONCHAINKIT_API_KEY=<Replace-WITH-YOUR-CDP-API-KEY>
 NEXT_PUBLIC_URL=
 ```
 
-### 4. Run locally: 7
+### 4. Run locally: 7.1
 
 ```bash
 npm run dev
 ```
 
-## Customization 8
+## Customization 8.1
 
-### mise à jour du manifeste 9
+### mise à jour du manifeste 9.1
 
 The `minikit.config.ts` file configures your manifest located at `app/.well-known/farcaster.json`.
 
@@ -55,7 +55,7 @@ The `minikit.config.ts` file configures your manifest located at `app/.well-know
 
 To personalize your app, change the `name`, `subtitle`, and `description` fields and add images to your `/public` folder. Then update their URLs in the file.
 
-## Deployment 11
+## Deployment 11.1
 
 ### 1. Déployer sur vercel
 
