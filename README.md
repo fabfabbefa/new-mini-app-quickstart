@@ -45,7 +45,7 @@ NEXT_PUBLIC_URL=
 npm run dev
 ```
 
-## Customization
+## Customization 8
 
 ### Update Manifest Configuration
 
