@@ -53,7 +53,7 @@ The `minikit.config.ts` file configures your manifest located at `app/.well-know
 
 **Skip the `accountAssociation` object for now.**
 
-To personalize your app, change the `name`, `subtitle`, and `description` fields and add images to your `/public` folder. Then update their URLs in the file.
+« Pour personnaliser votre application, modifiez les champs name (nom), subtitle (sous-titre) et description dans votre fichier de configuration (généralement config.json ou metadata.ts), puis ajoutez vos fichiers visuels dans le dossier /public. Enfin, mettez à jour les URLs (chemins d'accès) de ces images dans le fichier pour qu'elles s'affichent correctement. »
 
 ## Deployment 11.1
 
