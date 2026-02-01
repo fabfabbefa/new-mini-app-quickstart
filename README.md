@@ -111,7 +111,7 @@ export const minikitConfig = {
 }
 ```
 
-### 3. Deploy Updates
+### 3. Deploy Updates 17
 
 ```bash
 vercel --prod
