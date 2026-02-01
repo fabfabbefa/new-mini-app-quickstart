@@ -117,7 +117,7 @@ export const minikitConfig = {
 vercel --prod
 ```
 
-## Testing and Publishing
+## Testing and Publishing 18
 
 ### 1. Preview Your App
 
