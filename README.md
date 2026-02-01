@@ -85,7 +85,7 @@ vercel env add NEXT_PUBLIC_ONCHAINKIT_API_KEY production
 vercel env add NEXT_PUBLIC_URL production
 ```
 
-## Account Association
+## Account Association 14
 
 ### 1. Sign Your Manifest
 
