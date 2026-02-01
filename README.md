@@ -57,7 +57,7 @@ To personalize your app, change the `name`, `subtitle`, and `description` fields
 
 ## Deployment 11
 
-### 1. Deploy to Vercel
+### 1. Déployer sur vercel
 
 ```bash
 vercel --prod
