@@ -127,7 +127,7 @@ Go to [base.dev/preview](https://base.dev/preview) to validate your app:
 2. Use the "Account association" tab to verify the association credentials were created correctly
 3. Use the "Metadata" tab to see the metadata added from the manifest and identify any missing fields
 
-### 2. Publish to Base App
+### 2. Publish to Base App 20
 
 To publish your app, create a post in the Base app with your app's URL.
 
