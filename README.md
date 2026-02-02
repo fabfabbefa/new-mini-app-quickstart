@@ -5,7 +5,7 @@ This is a demo Mini App application built using OnchainKit and the Farcaster SDK
 > [!IMPORTANT]  
 > Before interacting with this demo, please review our [disclaimer](#disclaimer) — there are **no official tokens or apps** associated with Cubey, Base, or Coinbase.
 
-## Prerequisites
+
 
 Before getting started, make sure you have:
 
