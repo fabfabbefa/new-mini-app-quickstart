@@ -35,7 +35,7 @@ This project is a **demo application** created by the **Base / Coinbase Develope
 
 Any social media pages, tokens, or applications claiming to be affiliated with, endorsed by, or officially connected to Cubey, Base, or Coinbase are **unauthorized and fraudulent**.  
 
-We do **not** endorse or support any third-party tokens, apps, or projects using the Cubey name or branding.  
+
 
 > [!WARNING]
 > Do **not** purchase, trade, or interact with any tokens or applications claiming affiliation with Coinbase, Base, or Cubey.  
