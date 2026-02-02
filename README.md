@@ -41,9 +41,7 @@ Any social media pages, tokens, or applications claiming to be affiliated with, 
 > Do **not** purchase, trade, or interact with any tokens or applications claiming affiliation with Coinbase, Base, or Cubey.  
 > Coinbase and Base will never issue a token or ask you to connect your wallet for this demo.  
 
-For official Base developer resources, please visit:  
-- [https://base.org](https://base.org)  
-- [https://docs.base.org](https://docs.base.org)  
+
 
 ---
 
