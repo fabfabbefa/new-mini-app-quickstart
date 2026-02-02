@@ -68,7 +68,7 @@ You should have a URL deployed to a domain similar to: `https://your-vercel-proj
 
 ### 2. Mise à jour de l'enrionnement variable 12
 
-Add your production URL to your local `.env` file:
+Ajouter your production URL to your local `.env` file:
 
 ```bash
 NEXT_PUBLIC_PROJECT_NAME="Your App Name"
