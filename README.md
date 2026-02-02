@@ -17,7 +17,7 @@ ici aussi
 
 ## Getting Started 
 
-### 1. Clone this repository 4.1.1 (next)
+### 1. Clone this repository 
 
 bash
 git clone https://github.com/base/demos.git
