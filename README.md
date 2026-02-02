@@ -8,6 +8,7 @@ This is a demo Mini App application built using OnchainKit and the Farcaster SDK
 ## Prérequis 2.1
 
 Before getting started, make sure you have:
+ici aussi
 
 * Base app account
 * A [Farcaster](https://farcaster.xyz/) account
