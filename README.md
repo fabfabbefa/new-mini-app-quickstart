@@ -30,7 +30,7 @@ cd demos/minikit/waitlist-mini-app-qs
 npm install
 ```
 ajouter un autre paragraphe qui permettra de mieux comprendre
-### 3. Configure environment variables 6.1
+### 3. Configure environment variables 
 
 Créer a `.env.local` file and add your environment variables:
 
