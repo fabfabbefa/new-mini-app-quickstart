@@ -28,7 +28,7 @@ git clone https://github.com/base/demos.git
 cd demos/minikit/waitlist-mini-app-qs
 npm install
 ```
-
+ajouter un autre paragraphe qui permettra de mieux comprendre
 ### 3. Configure environment variables 6.1
 
 Create a `.env.local` file and add your environment variables:
