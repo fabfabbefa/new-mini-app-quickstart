@@ -5,7 +5,7 @@ This is a demo Mini App application construite using OnchainKit and the Farcaste
 > [!IMPORTANT]  
 > Avant d'intéragir avec cette démonstration, please review our [disclaimer](#disclaimer) — there are **no official tokens or apps** associated with Cubey, Base, or Coinbase.
 
-## Prérequis 2.1
+## Prérequis 
 
 Before getting started, assurez-vous d'avoir:
 ici aussi
