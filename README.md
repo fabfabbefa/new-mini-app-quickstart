@@ -12,9 +12,6 @@
 vercel --prod
 ```
 
-## Testing and Publishing
-
-
 
 Go to [base.dev/preview](https://base.dev/preview) to validate your app:
 
