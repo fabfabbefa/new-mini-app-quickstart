@@ -1,6 +1,6 @@
 # liste d'attente Mini App Quickstart 1.1
 
-This is a demo Mini App application built using OnchainKit and the Farcaster SDK. Build a waitlist sign-up mini app for your company that can be published to the Base app and Farcaster. 
+This is a demo Mini App application construite using OnchainKit and the Farcaster SDK. Build a waitlist sign-up mini app for your company that can be published to the Base app and Farcaster. 
 
 > [!IMPORTANT]  
 > Avant d'intéragir avec cette démonstration, please review our [disclaimer](#disclaimer) — there are **no official tokens or apps** associated with Cubey, Base, or Coinbase.
