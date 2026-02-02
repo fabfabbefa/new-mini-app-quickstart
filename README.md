@@ -75,7 +75,7 @@ NEXT_PUBLIC_ONCHAINKIT_API_KEY=<Replace-WITH-YOUR-CDP-API-KEY>
 NEXT_PUBLIC_URL=https://your-vercel-project-name.vercel.app/
 ```
 
-### 3. Upload environment variables to Vercel 13
+### 3. Upload environment variables to Vercel 
 
 Add environment variables to your production environment:
 
@@ -85,16 +85,16 @@ vercel env add NEXT_PUBLIC_ONCHAINKIT_API_KEY production
 vercel env add NEXT_PUBLIC_URL production
 ```
 
-## Account Association 14
+## Account Association 
 
-### 1. Sign Your Manifest 15
+### 1. Sign Your Manifest 
 
 1. Navigate to [Farcaster Manifest tool](https://farcaster.xyz/~/developers/mini-apps/manifest)
 2. Paste your domain in the form field (ex: your-vercel-project-name.vercel.app)
 3. Click the `Generate account association` button and follow the on-screen instructions for signing with your Farcaster wallet
 4. Copy the `accountAssociation` object
 
-### 2. Update Configuration 16
+### 2. Update Configuration 
 
 Update your `minikit.config.ts` file to include the `accountAssociation` object:
 
@@ -117,9 +117,9 @@ export const minikitConfig = {
 vercel --prod
 ```
 
-## Testing and Publishing 18
+## Testing and Publishing 
 
-### 1. Preview Your App 19
+### 1. Preview Your App 
 
 Go to [base.dev/preview](https://base.dev/preview) to validate your app:
 
