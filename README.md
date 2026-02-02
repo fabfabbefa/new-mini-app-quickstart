@@ -6,7 +6,7 @@
 }
 ```
 
-### 3. Deploy Updates
+
 
 ```bash
 vercel --prod
