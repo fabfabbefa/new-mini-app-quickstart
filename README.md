@@ -49,7 +49,7 @@ ajouter ici
 ## Customization 8.1
 
 ### mise à jour du manifeste 9.1
-
+modifier l'avancement
 The `minikit.config.ts` file configures your manifest located at `app/.well-known/farcaster.json`.
 
 **Skip the `accountAssociation` object for now.**
