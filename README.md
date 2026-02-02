@@ -29,9 +29,7 @@ cd demos/minikit/waitlist-mini-app-qs
 npm install
 ```
 
-### 3. Configure environment variables
 
-Create a `.env.local` file and add your environment variables:
 
 ```bash
 NEXT_PUBLIC_PROJECT_NAME="Your App Name"
