@@ -55,7 +55,7 @@ The `minikit.config.ts` file configures your manifest located at `app/.well-know
 
 « Pour personnaliser votre application, modifiez les champs name (nom), subtitle (sous-titre) et description dans votre fichier de configuration (généralement config.json ou metadata.ts), puis ajoutez vos fichiers visuels dans le dossier /public. Enfin, mettez à jour les URLs (chemins d'accès) de ces images dans le fichier pour qu'elles s'affichent correctement. »
 
-## Deploiement 11.1
+## Deploiement 
 
 ### 1. Déployer sur vercel
 
