@@ -156,5 +156,6 @@ We do **not** endorse or support any third-party tokens, apps, or projects using
 For official Base developer resources, please visit:  
 - [https://base.org](https://base.org)  
 - [https://docs.base.org](https://docs.base.org)  
-
+🤝 Contribution
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une Issue ou une Pull Request pour améliorer cette Mini App.
 ---
