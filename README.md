@@ -25,7 +25,7 @@ git clone https://github.com/base/demos.git
 "Ne pas oublier d'ajouter le paragraphe"
 ### 2. Install dependencies: 5.1
 
-```bash
+
 cd demos/minikit/waitlist-mini-app-qs
 npm install
 ```
