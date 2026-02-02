@@ -45,7 +45,7 @@ NEXT_PUBLIC_URL=
 npm run dev
 ```
 ajouter ici
-## Customization 8.1
+## Customization 
 
 ### mise à jour du manifeste 
 modifier l'avancement
