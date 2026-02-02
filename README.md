@@ -14,9 +14,7 @@ Before getting started, make sure you have:
 * [Vercel](https://vercel.com/) account for hosting the application
 * [Coinbase Developer Platform](https://portal.cdp.coinbase.com/) Client API Key
 
-## Getting Started
 
-### 1. Clone this repository 
 
 ```bash
 git clone https://github.com/base/demos.git
