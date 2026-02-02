@@ -32,7 +32,7 @@ npm install
 ajouter un autre paragraphe qui permettra de mieux comprendre
 ### 3. Configure environment variables 6.1
 
-Create a `.env.local` file and add your environment variables:
+Créer a `.env.local` file and add your environment variables:
 
 ```bash
 NEXT_PUBLIC_PROJECT_NAME="Your App Name"
