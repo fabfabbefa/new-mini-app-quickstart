@@ -89,11 +89,7 @@ export const minikitConfig = {
 }
 ```
 
-### 3. Deploy Updates
 
-```bash
-vercel --prod
-```
 
 ## Testing and Publishing
 
