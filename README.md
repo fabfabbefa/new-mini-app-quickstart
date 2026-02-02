@@ -63,7 +63,7 @@ The `minikit.config.ts` file configures your manifest located at `app/.well-know
 ```bash
 vercel --prod
 ```
-
+```
 You should have a URL deployed to a domain similar to: `https://your-vercel-project-name.vercel.app/`
 
 ### 2. Mise à jour de l'enrionnement variable 12
