@@ -8,8 +8,6 @@
 
 
 
-```bash
-vercel --prod
 ```
 
 
