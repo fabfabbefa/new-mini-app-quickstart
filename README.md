@@ -7,7 +7,7 @@ This is a demo Mini App application construite using OnchainKit and the Farcaste
 
 ## Prérequis 
 
-Before getting started, assurez-vous d'avoir:
+
 ici aussi
 
 * Base app account
