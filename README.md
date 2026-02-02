@@ -30,15 +30,7 @@ NEXT_PUBLIC_ONCHAINKIT_API_KEY=<Replace-WITH-YOUR-CDP-API-KEY>
 NEXT_PUBLIC_URL=
 ```
 
-### 4. Run locally:
 
-```bash
-npm run dev
-```
-
-
-
-The `minikit.config.ts` file configures your manifest located at `app/.well-known/farcaster.json`.
 
 **Skip the `accountAssociation` object for now.**
 
