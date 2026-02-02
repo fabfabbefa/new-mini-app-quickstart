@@ -132,7 +132,7 @@ Go to [base.dev/preview](https://base.dev/preview) to validate your app:
 
 To publish your app, create a post in the Base app with your app's URL.
 
-## Learn More 21
+## Learn More 
 
 For detailed step-by-step instructions, see the [Create a Mini App tutorial](https://docs.base.org/docs/mini-apps/quickstart/create-new-miniapp/) in the Base documentation.
 
