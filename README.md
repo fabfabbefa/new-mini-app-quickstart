@@ -1,4 +1,4 @@
-# liste d'attente Mini App Quickstart 1.1
+# liste d'attente Mini App Quickstart 
 
 This is a demo Mini App application construite using OnchainKit and the Farcaster SDK. Build a waitlist sign-up mini app for your company that can be published to the Base app and Farcaster. 
 
