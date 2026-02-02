@@ -19,7 +19,7 @@ ici aussi
 
 ### 1. Clone this repository 4.1.1 (next)
 
-```bash
+bash
 git clone https://github.com/base/demos.git
 ```
 "Ne pas oublier d'ajouter le paragraphe"
