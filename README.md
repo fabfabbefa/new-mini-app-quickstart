@@ -36,9 +36,7 @@ NEXT_PUBLIC_URL=
 npm run dev
 ```
 
-## Customization
 
-### Update Manifest Configuration
 
 The `minikit.config.ts` file configures your manifest located at `app/.well-known/farcaster.json`.
 
