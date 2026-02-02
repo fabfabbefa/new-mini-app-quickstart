@@ -1,5 +1,5 @@
 
-# Waitlist Mini App Quickstart
+
     frame: {
         // ... rest of your frame configuration
     },
