@@ -48,7 +48,7 @@ npm run dev
 ajouter ici
 ## Customization 8.1
 
-### mise à jour du manifeste 9.1
+### mise à jour du manifeste 
 modifier l'avancement
 The `minikit.config.ts` file configures your manifest located at `app/.well-known/farcaster.json`.
 
