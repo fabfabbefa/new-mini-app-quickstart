@@ -15,7 +15,7 @@ ici aussi
 * [Vercel](https://vercel.com/) account for hosting the application
 * [Coinbase Developer Platform](https://portal.cdp.coinbase.com/) Client API Key
 
-## Getting Started 3.1
+## Getting Started 
 
 ### 1. Clone this repository 4.1.1 (next)
 
